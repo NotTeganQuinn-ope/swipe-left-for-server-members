@@ -1,5 +1,5 @@
 {
-  "name": "Swipe Left for Member List",
+  "name": "swipe left for server members",
   "description": "Restores the swipe left gesture to open the member list in Discord.",
   "version": "1.0.0",
   "authors": [
