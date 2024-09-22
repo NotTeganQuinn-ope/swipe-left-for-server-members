@@ -22,7 +22,7 @@ export default registerPlugin({
     name: 'Restore Swipe Left for Member List',
     description: 'Restores the swipe left gesture to open the member list in Discord.',
     version: '1.0.0',
-    authors: [{ name: 'YourName', id: 'YourID' }],
+    authors: [{ name: 'NotTeganQuinn', id: 'NotTeganQuinn-ope' }],
     
     onLoad() {
         // Patch the swipe gesture to trigger swipeLeftListener when a left swipe is detected
